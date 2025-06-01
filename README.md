@@ -2,11 +2,7 @@
 
 Welcome to the public bug tracker for **Tiny Shield** — the native, modern macOS app that gives you complete control over your Mac’s network connections.
 
-## What is Tiny Shield?
-
-Tiny Shield is a privacy-first network monitor and firewall built natively for macOS. It lets you **see, analyze, and control** every network connection on your Mac, from system processes to your favorite apps. With a simple perpetual license (no subscriptions!) and 2 years of free updates, Tiny Shield is built for Mac users who want modern security without the hassle.
-
----
+![Tiny Shield - Network Monitor on macOS](assets/tinyshield_demo.jpg)
 
 ## Key Features
 
